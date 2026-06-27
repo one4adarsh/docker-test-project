@@ -24,5 +24,8 @@
   },
   "devDependencies": {
     "c8": "^11.0.0"
+  },
+  "publishConfig": {
+  " @one4adarsh:registry": "https://npm.pkg.github.com"
   }
 }
