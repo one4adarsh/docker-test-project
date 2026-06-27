@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "docker-test-project",
+  "name": "@one4adarsh/docker-test-project",
   "version": "1.0.0",
   "description": "This project was bootstrapped with Fastify-CLI.",
   "main": "app.js",
@@ -26,6 +26,6 @@
     "c8": "^11.0.0"
   },
   "publishConfig": {
-  " @one4adarsh:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
